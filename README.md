@@ -1,4 +1,4 @@
-# CS598DHL-Heart_Failure_Readmission_Prediction
+
 
 # Heart Failure Readmission Predictor
 This is a machine learning project that aims to predict hospital readmissions for heart failure patients. The prediction is made using both general readmission data and 30-day readmission data. The project uses a Convolutional Neural Network (CNN) model for the prediction.
